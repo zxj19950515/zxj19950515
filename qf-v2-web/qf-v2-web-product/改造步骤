@@ -1,0 +1,4 @@
+1、引入mq坐标
+2、配置yml连接rabbitmq的信息
+3、注解声明交换机
+4、使用rabbittemplate 发送消息给交换机

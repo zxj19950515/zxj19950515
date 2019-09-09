@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/qf-v2-service/qf-v2-service-product/pom.xml" />
+        <option value="$PROJECT_DIR$/qf-v2-web/qf-v2-web-product/pom.xml" />
+        <option value="$PROJECT_DIR$/qf-v2-web/qf-v2-web-index/pom.xml" />
+        <option value="$PROJECT_DIR$/qf-v2-web/qf-v2-web-search/pom.xml" />
+        <option value="$PROJECT_DIR$/qf-v2-service/qf-v2-service-search/pom.xml" />
+        <option value="$PROJECT_DIR$/qf-v2-service/qf-v2-service-item/pom.xml" />
+        <option value="$PROJECT_DIR$/qf-v2-service/qf-v2-service-mail/pom.xml" />
+        <option value="$PROJECT_DIR$/qf-v2-service/qf-v2-service-sms/pom.xml" />
+        <option value="$PROJECT_DIR$/qf-v2-service/qf-v2-service-user/pom.xml" />
+        <option value="$PROJECT_DIR$/qf-v2-web/qf-v2-web-user/pom.xml" />
+        <option value="$PROJECT_DIR$/qf-v2-service/qf-v2-service-cart/pom.xml" />
+        <option value="$PROJECT_DIR$/qf-v2-web/qf-v2-web-cart/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

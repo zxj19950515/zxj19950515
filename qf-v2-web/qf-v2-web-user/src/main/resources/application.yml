@@ -1,0 +1,10 @@
+server:
+  port: 9093
+dubbo:
+  application:
+    name: user-service-consumer
+  registry:
+    address: zookeeper://127.0.0.1:2181
+spring:
+  redis:
+    host: 127.0.0.1

@@ -1,0 +1,23 @@
+server:
+  port: 8084
+spring:
+  rabbitmq:
+    host: 127.0.0.1
+    port: 5672
+    username: guest
+    password: guest
+    virtual-host: /test
+  mail:
+    host: smtp.163.com
+    username: 18117502917@163.com
+    password: 123456789abc
+    default-encoding: UTF-8
+dubbo:
+  application:
+    name: qf-v2-mail-service
+  registry:
+    address: zookeeper://127.0.0.1:2181
+  protocol:
+    port: 28004
+
+

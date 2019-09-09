@@ -1,0 +1,8 @@
+server:
+  port: 9094
+dubbo:
+  application:
+    name: cart-service-consumer
+  registry:
+    address: zookeeper://127.0.0.1:2181
+

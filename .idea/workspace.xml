@@ -1,0 +1,1214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1d84401d-e6ec-4b68-83a7-2839712f3a4c" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/qf-v2-api/target/" />
+    <ignored path="$PROJECT_DIR$/qf-v2-basic/target/" />
+    <ignored path="$PROJECT_DIR$/qf-v2-service/target/" />
+    <ignored path="$PROJECT_DIR$/qf-v2-web/target/" />
+    <ignored path="$PROJECT_DIR$/qf-v2-api/qf-v2-product-api/target/" />
+    <ignored path="$PROJECT_DIR$/qf-v2-service/qf-v2-service-product/target/" />
+    <ignored path="$PROJECT_DIR$/qf-v2-web/qf-v2-web-product/target/" />
+    <ignored path="$PROJECT_DIR$/qf-v2-basic/qf-v2-common/target/" />
+    <ignored path="$PROJECT_DIR$/qf-v2-basic/qf-v2-entity/target/" />
+    <ignored path="$PROJECT_DIR$/qf-v2-basic/qf-v2-mapper/target/" />
+    <ignored path="$PROJECT_DIR$/qf-v2-web/qf-v2-web-index/target/" />
+    <ignored path="$PROJECT_DIR$/qf-v2-web/qf-v2-web-search/target/" />
+    <ignored path="$PROJECT_DIR$/qf-v2-api/qf-v2-search-api/target/" />
+    <ignored path="$PROJECT_DIR$/qf-v2-service/qf-v2-service-search/target/" />
+    <ignored path="$PROJECT_DIR$/qf-v2-api/qf-v2-item-api/target/" />
+    <ignored path="$PROJECT_DIR$/qf-v2-service/qf-v2-service-item/target/" />
+    <ignored path="$PROJECT_DIR$/qf-v2-api/qf-v2-mail-api/target/" />
+    <ignored path="$PROJECT_DIR$/qf-v2-service/qf-v2-service-mail/target/" />
+    <ignored path="$PROJECT_DIR$/qf-v2-service/qf-v2-service-sms/target/" />
+    <ignored path="$PROJECT_DIR$/qf-v2-api/qf-v2-sms-api/target/" />
+    <ignored path="$PROJECT_DIR$/qf-v2-api/qf-v2-user-api/target/" />
+    <ignored path="$PROJECT_DIR$/qf-v2-service/qf-v2-service-user/target/" />
+    <ignored path="$PROJECT_DIR$/qf-v2-web/qf-v2-web-user/target/" />
+    <ignored path="$PROJECT_DIR$/qf-v2-api/qf-v2-cart-api/target/" />
+    <ignored path="$PROJECT_DIR$/qf-v2-service/qf-v2-service-cart/target/" />
+    <ignored path="$PROJECT_DIR$/qf-v2-web/qf-v2-web-cart/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/qf-v2-service/qf-v2-service-cart/src/main/java/com/qf/qfv2servicecart/service/CartServiceImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="188">
+              <caret line="153" column="70" selection-start-line="153" selection-start-column="58" selection-end-line="153" selection-end-column="70" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/qf-v2-web/qf-v2-web-cart/src/main/java/com/qf/qfv2webcart/controller/CartController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="131">
+              <caret line="148" column="64" lean-forward="true" selection-start-line="148" selection-start-column="64" selection-end-line="148" selection-end-column="64" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/qf-v2-web/qf-v2-web-user/src/main/java/com/qf/qfv2webuser/controller/UserController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="308">
+              <caret line="131" column="65" lean-forward="true" selection-start-line="131" selection-start-column="65" selection-end-line="131" selection-end-column="65" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/qf-v2-web/qf-v2-web-user/src/test/java/com/qf/qfv2webuser/QfV2WebUserApplicationTests.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="440">
+              <caret line="106" column="5" lean-forward="true" selection-start-line="83" selection-start-column="3" selection-end-line="106" selection-end-column="5" />
+              <folding>
+                <element signature="method#testBasicFunc#0;class#QfV2WebUserApplicationTests#0" />
+                <element signature="method#testHttpClient#0;class#QfV2WebUserApplicationTests#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/qf-v2-basic/qf-v2-common/src/main/java/com/qf/v2/common/utils/HttpClientUtils.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="936">
+              <caret line="184" column="56" lean-forward="true" selection-start-line="184" selection-start-column="56" selection-end-line="184" selection-end-column="56" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#3772#3773#0" expanded="true" />
+                <element signature="e#3811#3812#0" expanded="true" />
+                <element signature="e#4382#4397#0" expanded="true" />
+                <element signature="e#5286#5287#0" expanded="true" />
+                <element signature="e#5326#5327#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/qf-v2-web/qf-v2-web-user/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="190">
+              <caret line="46" column="5" selection-start-line="46" selection-start-column="5" selection-end-line="50" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/qf-v2-basic/qf-v2-common/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="242">
+              <caret line="23" column="20" selection-start-line="23" selection-start-column="20" selection-end-line="23" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/qf-v2-web/qf-v2-web-cart/src/main/java/com/qf/qfv2webcart/interceptor/AuthInterceptor.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="320">
+              <caret line="33" column="56" selection-start-line="33" selection-start-column="52" selection-end-line="33" selection-end-column="56" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/qf-v2-api/qf-v2-cart-api/src/main/java/com/qf/v2/cart/api/ICartService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="396">
+              <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="HTML File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>deleteByPrimaryKey</find>
+      <find>myModal</find>
+      <find>rel=&quot;nofollow&quot;&gt;</find>
+      <find>am-avg-sm-2 am-avg-md-3 am-avg-lg-4 boxes</find>
+      <find>com.github.pagehelper</find>
+      <find>calcNavigatepageNums</find>
+      <find>user-name</find>
+      <find>user-birth</find>
+      <find>我的</find>
+      <find>hmtop</find>
+      <find>checkIsLogin</find>
+      <find>welcome-info</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>&gt;</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/qf-v2-service/qf-v2-service-mail/pom.xml" />
+        <option value="$PROJECT_DIR$/qf-v2-service/qf-v2-service-mail/src/main/java/com/qf/qfv2servicemail/config/RabbitMqConfig.java" />
+        <option value="$PROJECT_DIR$/qf-v2-service/qf-v2-service-mail/src/main/java/com/qf/qfv2servicemail/handler/MailHandler.java" />
+        <option value="$PROJECT_DIR$/qf-v2-service/qf-v2-service-mail/src/main/java/com/qf/qfv2servicemail/service/MailServiceImpl.java" />
+        <option value="$PROJECT_DIR$/qf-v2-api/qf-v2-sms-api/pom.xml" />
+        <option value="$PROJECT_DIR$/qf-v2-service/qf-v2-service-sms/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/qf-v2-service/qf-v2-service-sms/pom.xml" />
+        <option value="$PROJECT_DIR$/qf-v2-basic/qf-v2-common/src/main/java/com/qf/v2/common/constant/RabbitConstant.java" />
+        <option value="$PROJECT_DIR$/qf-v2-service/qf-v2-service-sms/src/main/java/com/qf/qfv2servicesms/config/RabbitMqConfig.java" />
+        <option value="$PROJECT_DIR$/qf-v2-service/qf-v2-service-sms/src/main/java/com/qf/qfv2servicesms/handler/MailHandler.java" />
+        <option value="$PROJECT_DIR$/qf-v2-api/qf-v2-sms-api/src/main/java/com/qf/v2/sms/api/ISmsServce.java" />
+        <option value="$PROJECT_DIR$/qf-v2-service/qf-v2-service-sms/src/main/java/com/qf/qfv2servicesms/service/SmsServiceImpl.java" />
+        <option value="$PROJECT_DIR$/qf-v2-service/qf-v2-service-sms/src/main/java/com/qf/qfv2servicesms/handler/SmsHandler.java" />
+        <option value="$PROJECT_DIR$/qf-v2-api/qf-v2-user-api/pom.xml" />
+        <option value="$PROJECT_DIR$/qf-v2-api/qf-v2-user-api/src/main/java/com/qf/v2/user/api/IUserService.java" />
+        <option value="$PROJECT_DIR$/qf-v2-service/qf-v2-service-user/pom.xml" />
+        <option value="$PROJECT_DIR$/qf-v2-basic/qf-v2-mapper/src/main/java/com/qf/v2/mapper/TUserMapper.java" />
+        <option value="$PROJECT_DIR$/qf-v2-basic/qf-v2-mapper/src/main/java/com/qf/v2/mapper/TUserMapper.xml" />
+        <option value="$PROJECT_DIR$/qf-v2-service/qf-v2-service-user/src/main/java/com/qf/qfv2serviceuser/config/WebSecurityConfig.java" />
+        <option value="$PROJECT_DIR$/qf-v2-service/qf-v2-service-user/src/test/java/com/qf/qfv2serviceuser/QfV2ServiceUserApplicationTests.java" />
+        <option value="$PROJECT_DIR$/qf-v2-web/qf-v2-web-user/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/qf-v2-web/qf-v2-web-user/src/main/java/com/qf/qfv2webuser/QfV2WebUserApplication.java" />
+        <option value="$PROJECT_DIR$/qf-v2-service/qf-v2-service-user/src/main/java/com/qf/qfv2serviceuser/QfV2ServiceUserApplication.java" />
+        <option value="$PROJECT_DIR$/qf-v2-basic/qf-v2-entity/src/main/java/com/qf/v2/entity/TUser.java" />
+        <option value="$PROJECT_DIR$/qf-v2-service/qf-v2-service-user/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/qf-v2-web/qf-v2-web-user/src/main/resources/templates/login.html" />
+        <option value="$PROJECT_DIR$/qf-v2-service/qf-v2-service-user/src/main/java/com/qf/qfv2serviceuser/service/UserServiceImpl.java" />
+        <option value="$PROJECT_DIR$/qf-v2-web/qf-v2-web-index/pom.xml" />
+        <option value="$PROJECT_DIR$/qf-v2-web/qf-v2-web-index/src/main/java/com/qf/qfv2webindex/controller/ProductPreController.java" />
+        <option value="$PROJECT_DIR$/qf-v2-web/qf-v2-web-index/src/main/resources/templates/index.html" />
+        <option value="$PROJECT_DIR$/qf-v2-api/qf-v2-cart-api/pom.xml" />
+        <option value="$PROJECT_DIR$/qf-v2-api/qf-v2-cart-api/src/main/java/com/qf/v2/cart/api/pojo/CartItem.java" />
+        <option value="$PROJECT_DIR$/qf-v2-service/qf-v2-service-cart/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/qf-v2-service/qf-v2-service-cart/src/main/java/com/qf/qfv2servicecart/QfV2ServiceCartApplication.java" />
+        <option value="$PROJECT_DIR$/qf-v2-web/qf-v2-web-cart/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/qf-v2-web/qf-v2-web-cart/src/main/java/com/qf/qfv2webcart/QfV2WebCartApplication.java" />
+        <option value="$PROJECT_DIR$/qf-v2-basic/qf-v2-common/src/main/java/com/qf/v2/common/constant/CookieConstant.java" />
+        <option value="$PROJECT_DIR$/qf-v2-api/qf-v2-cart-api/src/main/java/com/qf/v2/cart/api/vo/CartItemVo.java" />
+        <option value="$PROJECT_DIR$/qf-v2-basic/qf-v2-common/src/main/java/com/qf/v2/common/constant/RedisConstant.java" />
+        <option value="$PROJECT_DIR$/qf-v2-service/qf-v2-service-cart/pom.xml" />
+        <option value="$PROJECT_DIR$/qf-v2-web/qf-v2-web-cart/pom.xml" />
+        <option value="$PROJECT_DIR$/qf-v2-web/qf-v2-web-cart/src/main/java/com/qf/qfv2webcart/interceptor/AuthInterceptor.java" />
+        <option value="$PROJECT_DIR$/qf-v2-web/qf-v2-web-cart/src/main/java/com/qf/qfv2webcart/config/WebConfig.java" />
+        <option value="$PROJECT_DIR$/qf-v2-api/qf-v2-cart-api/src/main/java/com/qf/v2/cart/api/ICartService.java" />
+        <option value="$PROJECT_DIR$/qf-v2-service/qf-v2-service-cart/src/main/java/com/qf/qfv2servicecart/service/CartServiceImpl.java" />
+        <option value="$PROJECT_DIR$/qf-v2-web/qf-v2-web-cart/src/main/java/com/qf/qfv2webcart/controller/CartController.java" />
+        <option value="$PROJECT_DIR$/qf-v2-web/qf-v2-web-user/pom.xml" />
+        <option value="$PROJECT_DIR$/qf-v2-web/qf-v2-web-user/src/test/java/com/qf/qfv2webuser/QfV2WebUserApplicationTests.java" />
+        <option value="$PROJECT_DIR$/qf-v2-basic/qf-v2-common/pom.xml" />
+        <option value="$PROJECT_DIR$/qf-v2-basic/qf-v2-common/src/main/java/com/qf/v2/common/utils/HttpClientUtils.java" />
+        <option value="$PROJECT_DIR$/qf-v2-web/qf-v2-web-user/src/main/java/com/qf/qfv2webuser/controller/UserController.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="qf-v2-service-item" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="qf-v2-service-item" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1040" />
+    <option name="height" value="750" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="qf-v2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="qf-v2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="qf-v2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="qf-v2" type="462c0819:PsiDirectoryNode" />
+              <item name="qf-v2-api" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="qf-v2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="qf-v2" type="462c0819:PsiDirectoryNode" />
+              <item name="qf-v2-basic" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="qf-v2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="qf-v2" type="462c0819:PsiDirectoryNode" />
+              <item name="qf-v2-basic" type="462c0819:PsiDirectoryNode" />
+              <item name="qf-v2-common" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="qf-v2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="qf-v2" type="462c0819:PsiDirectoryNode" />
+              <item name="qf-v2-basic" type="462c0819:PsiDirectoryNode" />
+              <item name="qf-v2-common" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="qf-v2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="qf-v2" type="462c0819:PsiDirectoryNode" />
+              <item name="qf-v2-basic" type="462c0819:PsiDirectoryNode" />
+              <item name="qf-v2-common" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="qf-v2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="qf-v2" type="462c0819:PsiDirectoryNode" />
+              <item name="qf-v2-basic" type="462c0819:PsiDirectoryNode" />
+              <item name="qf-v2-common" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="qf-v2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="qf-v2" type="462c0819:PsiDirectoryNode" />
+              <item name="qf-v2-basic" type="462c0819:PsiDirectoryNode" />
+              <item name="qf-v2-common" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="qf-v2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="qf-v2" type="462c0819:PsiDirectoryNode" />
+              <item name="qf-v2-basic" type="462c0819:PsiDirectoryNode" />
+              <item name="qf-v2-common" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="qf" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="qf-v2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="qf-v2" type="462c0819:PsiDirectoryNode" />
+              <item name="qf-v2-basic" type="462c0819:PsiDirectoryNode" />
+              <item name="qf-v2-common" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="qf" type="462c0819:PsiDirectoryNode" />
+              <item name="v2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="qf-v2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="qf-v2" type="462c0819:PsiDirectoryNode" />
+              <item name="qf-v2-basic" type="462c0819:PsiDirectoryNode" />
+              <item name="qf-v2-common" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="qf" type="462c0819:PsiDirectoryNode" />
+              <item name="v2" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="qf-v2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="qf-v2" type="462c0819:PsiDirectoryNode" />
+              <item name="qf-v2-web" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/qf-v2-web/qf-v2-web-user/src/main/resources/static" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.build" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\qf-v2\qf-v2-web\qf-v2-web-user\src\main\resources\static" />
+      <recent name="D:\qf-v2\qf-v2-basic\qf-v2-mapper\src\main\java\com\qf\v2\mapper" />
+      <recent name="D:\qf-v2\qf-v2-service\qf-v2-service-sms\src\main\java\com\qf\qfv2servicesms" />
+      <recent name="D:\qf-v2\qf-v2-service\qf-v2-service-mail\src\main\resources\templates" />
+      <recent name="D:\qf-v2\qf-v2-service\qf-v2-service-item\src\main\resources\static" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.qf.v2.common.utils" />
+      <recent name="com.qf.v2.entity" />
+      <recent name="com.qf.v2.common.pojo" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\qf-v2\qf-v2-web\qf-v2-web-index\src\main\resources\templates" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.QfV2WebUserApplication">
+    <configuration name="QfV2ServiceUserApplicationTests.testBCryptPasswordEncoder" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="qf-v2-service-user" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.qf.qfv2serviceuser.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.qf.qfv2serviceuser" />
+      <option name="MAIN_CLASS_NAME" value="com.qf.qfv2serviceuser.QfV2ServiceUserApplicationTests" />
+      <option name="METHOD_NAME" value="testBCryptPasswordEncoder" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="QfV2WebUserApplicationTests.testBasicFunc" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="qf-v2-web-user" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.qf.qfv2webuser.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.qf.qfv2webuser" />
+      <option name="MAIN_CLASS_NAME" value="com.qf.qfv2webuser.QfV2WebUserApplicationTests" />
+      <option name="METHOD_NAME" value="testBasicFunc" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="QfV2WebUserApplicationTests.testHttpClient" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="qf-v2-web-user" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.qf.qfv2webuser.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.qf.qfv2webuser" />
+      <option name="MAIN_CLASS_NAME" value="com.qf.qfv2webuser.QfV2WebUserApplicationTests" />
+      <option name="METHOD_NAME" value="testHttpClient" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="QfV2WebUserApplicationTests.testHttpClientWithParams" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="qf-v2-web-user" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.qf.qfv2webuser.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.qf.qfv2webuser" />
+      <option name="MAIN_CLASS_NAME" value="com.qf.qfv2webuser.QfV2WebUserApplicationTests" />
+      <option name="METHOD_NAME" value="testHttpClientWithParams" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="QfV2ServiceCartApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="qf-v2-service-cart" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.qf.qfv2servicecart.QfV2ServiceCartApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="QfV2ServiceItemApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="qf-v2-service-item" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.qf.qfv2serviceitem.QfV2ServiceItemApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="QfV2ServiceMailApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="qf-v2-service-mail" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.qf.qfv2servicemail.QfV2ServiceMailApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="QfV2ServiceProductApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="qf-v2-service-product" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.qf.qfv2serviceproduct.QfV2ServiceProductApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="QfV2ServiceSearchApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="qf-v2-service-search" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.qf.qfv2servicesearch.QfV2ServiceSearchApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="QfV2ServiceSmsApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="qf-v2-service-sms" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.qf.qfv2servicesms.QfV2ServiceSmsApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="QfV2ServiceUserApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="qf-v2-service-user" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.qf.qfv2serviceuser.QfV2ServiceUserApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="QfV2WebCartApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="qf-v2-web-cart" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.qf.qfv2webcart.QfV2WebCartApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="QfV2WebIndexApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="qf-v2-web-index" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.qf.qfv2webindex.QfV2WebIndexApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="QfV2WebProductApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="qf-v2-web-product" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.qf.qfv2webproduct.QfV2WebProductApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="QfV2WebSearchApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="qf-v2-web-search" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.qf.qfv2websearch.QfV2WebSearchApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="QfV2WebUserApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="qf-v2-web-user" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.qf.qfv2webuser.QfV2WebUserApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.QfV2WebUserApplicationTests.testHttpClientWithParams" />
+        <item itemvalue="JUnit.QfV2WebUserApplicationTests.testHttpClient" />
+        <item itemvalue="JUnit.QfV2WebUserApplicationTests.testBasicFunc" />
+        <item itemvalue="JUnit.QfV2ServiceUserApplicationTests.testBCryptPasswordEncoder" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1d84401d-e6ec-4b68-83a7-2839712f3a4c" name="Default Changelist" comment="" />
+      <created>1564992209559</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1564992209559</updated>
+      <workItem from="1564992212922" duration="1677000" />
+      <workItem from="1565054899884" duration="1472000" />
+      <workItem from="1565056392387" duration="11697000" />
+      <workItem from="1565141446179" duration="8786000" />
+      <workItem from="1565228035026" duration="1608000" />
+      <workItem from="1565256844131" duration="147000" />
+      <workItem from="1565312932685" duration="13298000" />
+      <workItem from="1565417306259" duration="91000" />
+      <workItem from="1565596008865" duration="90000" />
+      <workItem from="1565659006119" duration="6391000" />
+      <workItem from="1565678844330" duration="7604000" />
+      <workItem from="1565745990180" duration="8235000" />
+      <workItem from="1565850547314" duration="8901000" />
+      <workItem from="1565916925333" duration="3630000" />
+      <workItem from="1566010813759" duration="4999000" />
+      <workItem from="1566285648553" duration="4259000" />
+      <workItem from="1566304441552" duration="39000" />
+      <workItem from="1566352188904" duration="6589000" />
+      <workItem from="1566439322286" duration="613000" />
+      <workItem from="1566460801605" duration="1649000" />
+      <workItem from="1566623305384" duration="634000" />
+      <workItem from="1566783145296" duration="6961000" />
+      <workItem from="1566800352491" duration="8579000" />
+      <workItem from="1566868547127" duration="13929000" />
+      <workItem from="1566953303291" duration="13750000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="QfV2ServiceUserApplicationTests_testBCryptPasswordEncoder - 2019.08.26 at 10h 46m 20s.xml">
+      <configuration name="QfV2ServiceUserApplicationTests.testBCryptPasswordEncoder" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="QfV2ServiceUserApplicationTests_testBCryptPasswordEncoder - 2019.08.26 at 10h 47m 19s.xml">
+      <configuration name="QfV2ServiceUserApplicationTests.testBCryptPasswordEncoder" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="QfV2ServiceUserApplicationTests_testBCryptPasswordEncoder - 2019.08.26 at 10h 49m 03s.xml">
+      <configuration name="QfV2ServiceUserApplicationTests.testBCryptPasswordEncoder" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="QfV2ServiceUserApplicationTests_testBCryptPasswordEncoder - 2019.08.26 at 10h 50m 14s.xml">
+      <configuration name="QfV2ServiceUserApplicationTests.testBCryptPasswordEncoder" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="QfV2WebUserApplicationTests_testBasicFunc - 2019.08.28 at 15h 02m 08s.xml">
+      <configuration name="QfV2WebUserApplicationTests.testBasicFunc" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="QfV2WebUserApplicationTests_testHttpClient - 2019.08.28 at 15h 09m 41s.xml">
+      <configuration name="QfV2WebUserApplicationTests.testHttpClient" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="QfV2WebUserApplicationTests_testHttpClient - 2019.08.28 at 15h 11m 14s.xml">
+      <configuration name="QfV2WebUserApplicationTests.testHttpClient" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="QfV2WebUserApplicationTests_testHttpClientWithParams - 2019.08.28 at 15h 38m 49s.xml">
+      <configuration name="QfV2WebUserApplicationTests.testHttpClientWithParams" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="135628000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21633889" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.11601307" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.251634" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Spring" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Java Enterprise" order="11" />
+      <window_info anchor="bottom" id="Database Changes" order="12" />
+      <window_info anchor="bottom" id="Version Control" order="13" />
+      <window_info anchor="bottom" id="Messages" order="14" weight="0.47875816" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" weight="0.32980332" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="Bean Validation" order="9" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/qf-v2-web/qf-v2-web-product/src/main/java/com/qf/qfv2webproduct/controller/ProductController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1290">
+          <caret line="104" column="45" selection-start-line="104" selection-start-column="45" selection-end-line="104" selection-end-column="45" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/qf-v2-basic/qf-v2-mapper/src/main/java/com/qf/v2/mapper/TProductMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="5" column="58" selection-start-line="5" selection-start-column="32" selection-end-line="5" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/qf-v2-api/qf-v2-user-api/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="15" column="21" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/qf-v2-service/qf-v2-service-product/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" selection-start-line="2" selection-end-line="16" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/qf-v2-service/qf-v2-service-sms/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" selection-start-line="2" selection-end-line="8" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/qf-v2-service/qf-v2-service-mail/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="20" column="15" lean-forward="true" selection-start-line="20" selection-start-column="15" selection-end-line="20" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/qf-v2-basic/qf-v2-mapper/src/main/java/com/qf/v2/mapper/TUserMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="30" selection-start-line="30" selection-end-line="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/qf-v2-basic/qf-v2-mapper/src/main/java/com/qf/v2/mapper/TUserMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="42" selection-start-line="7" selection-start-column="34" selection-end-line="7" selection-end-column="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-core/5.1.5.RELEASE/spring-security-core-5.1.5.RELEASE.jar!/org/springframework/security/crypto/bcrypt/BCryptPasswordEncoder.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="15" column="29" lean-forward="true" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/qf-v2-service/qf-v2-service-user/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="60" column="4" selection-start-line="60" selection-start-column="4" selection-end-line="65" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/qf-v2-service/qf-v2-service-user/src/test/java/com/qf/qfv2serviceuser/QfV2ServiceUserApplicationTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/qf-v2-service/qf-v2-service-user/src/main/java/com/qf/qfv2serviceuser/config/WebSecurityConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="20" column="5" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#863#864#0" expanded="true" />
+            <element signature="e#889#890#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/qf-v2-web/qf-v2-web-user/src/main/java/com/qf/qfv2webuser/QfV2WebUserApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="7" column="12" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/qf-v2-web/qf-v2-web-product/src/main/resources/templates/product.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+          <folding>
+            <element signature="n#div#0;n#div#0;n#div#0;n#div#3;n#div#0;n#body#0;n#html#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/qf-v2-service/qf-v2-service-user/src/main/java/com/qf/qfv2serviceuser/QfV2ServiceUserApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="12" column="23" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/qf-v2-web/qf-v2-web-index/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="47" column="8" selection-start-line="47" selection-start-column="8" selection-end-line="47" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/qf-v2-web/qf-v2-web-product/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" selection-start-line="3" selection-end-line="7" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-redis/2.1.9.RELEASE/spring-data-redis-2.1.9.RELEASE.jar!/org/springframework/data/redis/serializer/StringRedisSerializer.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="18" column="11" selection-start-line="18" selection-start-column="11" selection-end-line="18" selection-end-column="11" />
+          <folding>
+            <element signature="e#626#627#0" expanded="true" />
+            <element signature="e#670#671#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/qf-v2-web/qf-v2-web-user/src/main/resources/templates/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="386">
+          <caret line="100" column="10" selection-start-line="96" selection-start-column="15" selection-end-line="100" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/qf-v2-web/qf-v2-web-index/src/main/java/com/qf/qfv2webindex/controller/ProductPreController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="39" selection-start-line="35" selection-start-column="17" selection-end-line="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/qf-v2-web/qf-v2-web-index/src/main/resources/templates/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="218">
+          <caret line="1744" selection-start-line="1744" selection-end-line="1744" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/qf-v2-api/qf-v2-cart-api/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="13" column="37" lean-forward="true" selection-start-line="13" selection-start-column="37" selection-end-line="13" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/qf-v2-api/qf-v2-cart-api/src/main/java/com/qf/v2/cart/api/pojo/CartItem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="14" column="44" selection-start-line="14" selection-start-column="44" selection-end-line="14" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#472#473#0" expanded="true" />
+            <element signature="e#504#505#0" expanded="true" />
+            <element signature="e#552#553#0" expanded="true" />
+            <element signature="e#594#595#0" expanded="true" />
+            <element signature="e#627#628#0" expanded="true" />
+            <element signature="e#655#656#0" expanded="true" />
+            <element signature="e#698#699#0" expanded="true" />
+            <element signature="e#732#733#0" expanded="true" />
+            <element signature="e#767#768#0" expanded="true" />
+            <element signature="e#800#801#0" expanded="true" />
+            <element signature="e#850#851#0" expanded="true" />
+            <element signature="e#894#895#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/qf-v2-service/qf-v2-service-user/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" selection-start-line="2" selection-end-line="17" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/qf-v2-basic/qf-v2-common/src/main/java/com/qf/v2/common/constant/CookieConstant.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="38" selection-start-line="5" selection-start-column="38" selection-end-line="5" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/qf-v2-service/qf-v2-service-cart/src/main/java/com/qf/qfv2servicecart/QfV2ServiceCartApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="12" column="25" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/qf-v2-service/qf-v2-service-cart/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="23" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/qf-v2-basic/qf-v2-common/src/main/java/com/qf/v2/common/pojo/ResultBean.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="32" lean-forward="true" selection-start-line="6" selection-start-column="32" selection-end-line="6" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/qf-v2-web/qf-v2-web-cart/src/main/java/com/qf/qfv2webcart/QfV2WebCartApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="7" column="12" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/qf-v2-web/qf-v2-web-cart/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="25" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/qf-v2-api/qf-v2-cart-api/src/main/java/com/qf/v2/cart/api/vo/CartItemVo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" column="16" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#521#522#0" expanded="true" />
+            <element signature="e#551#552#0" expanded="true" />
+            <element signature="e#599#600#0" expanded="true" />
+            <element signature="e#637#638#0" expanded="true" />
+            <element signature="e#670#671#0" expanded="true" />
+            <element signature="e#698#699#0" expanded="true" />
+            <element signature="e#741#742#0" expanded="true" />
+            <element signature="e#775#776#0" expanded="true" />
+            <element signature="e#810#811#0" expanded="true" />
+            <element signature="e#843#844#0" expanded="true" />
+            <element signature="e#893#894#0" expanded="true" />
+            <element signature="e#937#938#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/qf-v2-basic/qf-v2-entity/src/main/java/com/qf/v2/entity/TUser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" column="28" lean-forward="true" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#999#1000#0" expanded="true" />
+            <element signature="e#1022#1023#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.1.8.RELEASE/spring-webmvc-5.1.8.RELEASE.jar!/org/springframework/web/servlet/HandlerInterceptor.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="12" column="19" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/qf-v2-service/qf-v2-service-user/src/main/java/com/qf/qfv2serviceuser/service/UserServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="298">
+          <caret line="63" column="47" selection-start-line="63" selection-start-column="36" selection-end-line="63" selection-end-column="47" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/qf-v2-service/qf-v2-service-cart/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="946">
+          <caret line="43" selection-start-line="43" selection-end-line="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/qf-v2-basic/qf-v2-common/src/main/java/com/qf/v2/common/constant/RedisConstant.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="33" selection-start-line="6" selection-start-column="33" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/qf-v2-web/qf-v2-web-cart/src/main/java/com/qf/qfv2webcart/config/WebConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="15" column="44" selection-start-line="15" selection-start-column="44" selection-end-line="15" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/qf-v2-web/qf-v2-web-cart/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="946">
+          <caret line="43" selection-start-line="43" selection-end-line="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/qf-v2-web/qf-v2-web-user/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" selection-start-line="2" selection-end-line="9" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/qf-v2-api/qf-v2-user-api/src/main/java/com/qf/v2/user/api/IUserService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="37" lean-forward="true" selection-start-line="2" selection-start-column="37" selection-end-line="2" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/qf-v2-api/qf-v2-cart-api/src/main/java/com/qf/v2/cart/api/ICartService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/qf-v2-web/qf-v2-web-cart/src/main/java/com/qf/qfv2webcart/interceptor/AuthInterceptor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="33" column="56" selection-start-line="33" selection-start-column="52" selection-end-line="33" selection-end-column="56" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/qf-v2-service/qf-v2-service-cart/src/main/java/com/qf/qfv2servicecart/service/CartServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="188">
+          <caret line="153" column="70" selection-start-line="153" selection-start-column="58" selection-end-line="153" selection-end-column="70" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/qf-v2-web/qf-v2-web-user/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="46" column="5" selection-start-line="46" selection-start-column="5" selection-end-line="50" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/qf-v2-basic/qf-v2-common/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="23" column="20" selection-start-line="23" selection-start-column="20" selection-end-line="23" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpcore/4.4.6/httpcore-4.4.6.jar!/org/apache/http/NameValuePair.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="10" column="21" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpcore/4.4.6/httpcore-4.4.6.jar!/org/apache/http/message/BasicNameValuePair.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1097">
+          <caret line="67" column="25" lean-forward="true" selection-start-line="67" selection-start-column="25" selection-end-line="67" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/qf-v2-basic/qf-v2-common/src/main/java/com/qf/v2/common/utils/HttpClientUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="936">
+          <caret line="184" column="56" lean-forward="true" selection-start-line="184" selection-start-column="56" selection-end-line="184" selection-end-column="56" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#3772#3773#0" expanded="true" />
+            <element signature="e#3811#3812#0" expanded="true" />
+            <element signature="e#4382#4397#0" expanded="true" />
+            <element signature="e#5286#5287#0" expanded="true" />
+            <element signature="e#5326#5327#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/qf-v2-web/qf-v2-web-cart/src/main/java/com/qf/qfv2webcart/controller/CartController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="131">
+          <caret line="148" column="64" lean-forward="true" selection-start-line="148" selection-start-column="64" selection-end-line="148" selection-end-column="64" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/qf-v2-web/qf-v2-web-user/src/test/java/com/qf/qfv2webuser/QfV2WebUserApplicationTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="106" column="5" lean-forward="true" selection-start-line="83" selection-start-column="3" selection-end-line="106" selection-end-column="5" />
+          <folding>
+            <element signature="method#testBasicFunc#0;class#QfV2WebUserApplicationTests#0" />
+            <element signature="method#testHttpClient#0;class#QfV2WebUserApplicationTests#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/qf-v2-web/qf-v2-web-user/src/main/java/com/qf/qfv2webuser/controller/UserController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="131" column="65" lean-forward="true" selection-start-line="131" selection-start-column="65" selection-end-line="131" selection-end-column="65" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>qf-v2-common</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

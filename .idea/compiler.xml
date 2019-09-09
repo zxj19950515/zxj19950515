@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="qf-v2-service-search" />
+        <module name="qf-v2-user-api" />
+        <module name="qf-v2-service-user" />
+        <module name="qf-v2-web-index" />
+        <module name="qf-v2-service-item" />
+        <module name="qf-v2-web" />
+        <module name="qf-v2-service-mail" />
+        <module name="qf-v2-entity" />
+        <module name="qf-v2-web-product" />
+        <module name="qf-v2-common" />
+        <module name="qf-v2-search-api" />
+        <module name="qf-v2-service-product" />
+        <module name="qf-v2-web-user" />
+        <module name="qf-v2-mapper" />
+        <module name="qf-v2-web-cart" />
+        <module name="qf-v2-product-api" />
+        <module name="qf-v2-service-cart" />
+        <module name="qf-v2-sms-api" />
+        <module name="qf-v2-cart-api" />
+        <module name="qf-v2-web-search" />
+        <module name="qf-v2-service-sms" />
+        <module name="qf-v2-item-api" />
+        <module name="qf-v2-service" />
+        <module name="qf-v2-mail-api" />
+      </profile>
+    </annotationProcessing>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="qf-v2-mapper" options="-parameters" />
+      <module name="qf-v2-service-cart" options="-parameters" />
+      <module name="qf-v2-service-item" options="-parameters" />
+      <module name="qf-v2-service-mail" options="-parameters" />
+      <module name="qf-v2-service-product" options="-parameters" />
+      <module name="qf-v2-service-search" options="-parameters" />
+      <module name="qf-v2-service-sms" options="-parameters" />
+      <module name="qf-v2-service-user" options="-parameters" />
+      <module name="qf-v2-web-cart" options="-parameters" />
+      <module name="qf-v2-web-index" options="-parameters" />
+      <module name="qf-v2-web-product" options="-parameters" />
+      <module name="qf-v2-web-search" options="-parameters" />
+      <module name="qf-v2-web-user" options="-parameters" />
+    </option>
+  </component>
+</project>
